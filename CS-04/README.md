@@ -84,7 +84,7 @@ Stop only when the Python process is manually terminated
 
 keylogs/
 
-└── 2025-06-28\_15-30-10.txt
+└── 2025-07-09_20-40-33.txt
 
 Contents of log file:
 
@@ -96,11 +96,15 @@ Copy
 
 Edit
 
-2025-06-28 15:30:11,823: Key a pressed.
+2025-07-09 20:40:35,219: Key a pressed.
 
-2025-06-28 15:30:12,024: Key b pressed.
+2025-07-09 20:40:35,331: Key s pressed.
 
-2025-06-28 15:30:13,146: Special Key Key.space pressed.
+2025-07-09 20:40:35,407: Key n pressed.
+
+2025-07-09 20:40:35,522: Key d pressed.
+
+2025-07-09 20:40:37,303: Special Key Key.backspace pressed.
 
 
 
